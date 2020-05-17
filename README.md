@@ -6,7 +6,7 @@
 如果为您的学习提供了帮助，欢迎给一个Star ^_^
 
 * 快捷部署
-   [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/onplus/v2hero/tree/core-latest)
+   [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/cloud2010/v2hero/tree/core-latest)
  
 * 提问&建议
    https://github.com/onplus/v2hero/issues
